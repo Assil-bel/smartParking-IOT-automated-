@@ -15,3 +15,11 @@ the mobile app connects to the server and get the data and populates it into the
 
 
 video that describe the process: 
+
+
+https://user-images.githubusercontent.com/74604870/167274407-72ed09c7-ef2e-48fe-ab86-5c2664b59412.mp4
+
+
+
+https://user-images.githubusercontent.com/74604870/167274416-3d25b0b9-20b1-456e-b562-0b827c9d6e03.mp4
+
